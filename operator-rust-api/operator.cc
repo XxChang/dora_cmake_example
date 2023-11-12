@@ -1,7 +1,7 @@
 #include "operator.h"
 #include <iostream>
 #include <vector>
-#include "../build/dora-operator-api.h"
+#include <dora-operator-api.h>
 
 Operator::Operator() {}
 
