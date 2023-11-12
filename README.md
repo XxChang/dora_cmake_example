@@ -8,5 +8,5 @@ cd build && cmake ..
 make install
 cd ..
 dora up
-dora dataflow.yml
+dora start dataflow.yml
 ```
